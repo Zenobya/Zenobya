@@ -5,13 +5,13 @@
 
 
 ### ✦ Olá, Seja bem-vind@! ✦
+*Construindo minha jornada dev, um commit de cada vez* 🌙 
 
-*Construindo minha jornada dev, um commit de cada vez* 🌙
-
-</div>
+<img src="the-mandalorian.gif" width="100" alt="coffee"/>   
 
 ---
-
+</div>
+    
 ## 👩‍💻 Sobre mim
 
 ```java
@@ -34,8 +34,9 @@ public class Zenobya {
     private final boolean openToCollabs = true;
 }
 ```
-
 ---
+<img src="caffeine-rush-coffee.gif" width="60" alt="coffee"/>
+
 
 ## 📡 Status atual
 
@@ -94,7 +95,8 @@ public class Zenobya {
 
 ---
 
-## 🏆 Conquistas & Certificados
+## 🏆 Conquistas & Certificados  <img src="212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="pacman"/>
+
 
 <div align="center">
 
@@ -151,7 +153,7 @@ Quando não estou commitando, estou:
 
 <div align="center">
 
-<img src="https://media.tenor.com/6_kx4v5WdNUAAAAi/coffee-aesthetic.gif" width="60" alt="coffee"/>
+<img src="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="300" alt="cozy time"/>
 
 *feito com ☕ + 🌙 por **Zenobya***
 
