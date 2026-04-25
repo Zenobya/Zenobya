@@ -114,6 +114,7 @@ public class Zenobya {
 
 | projeto | descrição | tech |
 |---|---|---|
+| [🛒 SpeakList Project](https://github.com/Zenobya/SpeakList) | Projeto de API com reconhecimento de fala e Spring Boot | Java / Spring Boot / LLM |
 | [🎮 Sudoku Project](https://github.com/Zenobya/Sudoku_Project_Dio) | Jogo de Sudoku com interface gráfica moderna em Java Swing | Java |
 | [🤖 AI Prompts Bootcamp](https://github.com/Zenobya/AI-Prompts-BootcampDio) | Repositório de prompts para desenvolvimento backend com IA | Java / LLMs |
 | [🌐 NLW Esports Explorer](https://github.com/Zenobya/NLW-Esports-Explorer) | Projeto desenvolvido na Next Level Week da Rocketseat | HTML |
