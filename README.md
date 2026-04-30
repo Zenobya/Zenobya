@@ -114,6 +114,8 @@ public class Zenobya {
 
 | projeto | descrição | tech |
 |---|---|---|
+| [☕ Projeto_POO](https://github.com/Zenobya/desafio-poo-dio.git) | Abstraindo um Bootcamp com Orientação a Objetos em Java | Java |
+| [🧩 Projeto Design Patterns](https://github.com/Zenobya/Projeto-Design-Patterns-Spring.git) | API REST de gerenciamento de clientes que consome a API do ViaCEP para preenchimento automático de endereços. | Java / Spring |
 | [🛒 SpeakList Project](https://github.com/Zenobya/SpeakList) | Projeto de API com reconhecimento de fala e Spring Boot | Java / Spring Boot / LLM |
 | [🎮 Sudoku Project](https://github.com/Zenobya/Sudoku_Project_Dio) | Jogo de Sudoku com interface gráfica moderna em Java Swing | Java |
 | [🤖 AI Prompts Bootcamp](https://github.com/Zenobya/AI-Prompts-BootcampDio) | Repositório de prompts para desenvolvimento backend com IA | Java / LLMs |
