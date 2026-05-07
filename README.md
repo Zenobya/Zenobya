@@ -13,27 +13,33 @@
 </div>
     
 ## 👩‍💻 Sobre mim
+ 
+![PT-BR](https://img.shields.io/badge/🇧🇷-Português-009C3B?style=for-the-badge&logoColor=white)
+ 
+Olá! Sou a Camila, conhecida como **Zenobya ou Zen**. Sou uma profissional em transição de carreira com anos de experiência nas áreas **metalúrgica e comercial**, que decidiu seguir um caminho que sempre me fascinou: o desenvolvimento de software.
+ 
+Atualmente estou focada no **back-end com Java**, estudando Spring Boot, Spring Security, APIs REST e JUnit 5. Também tenho base em **HTML, CSS e JavaScript**, além de trabalhar com bancos de dados como **SQL, PostgreSQL e MySQL**. Sigo boas práticas de desenvolvimento com **Clean Code, Git e GitHub**, e estou dando meus primeiros passos em **QA** e em ferramentas de build como **Maven e Gradle**. Acompanho de perto o universo de **Inteligência Artificial e Machine Learning**.
+ 
+Acredito que a disciplina, a mentalidade de crescimento e a resolução de problemas que desenvolvi ao longo da minha trajetória profissional são os maiores ativos que carrego para essa nova fase.
+ 
+Movida a café preto, rock e games 🎮☕🎸 — e com muita determinação para construir essa nova versão de mim.
+ 
+> *"Em construção, mas com fundação sólida."*
+ 
+---
+ 
+![EN](https://img.shields.io/badge/🇺🇸-English-3C3B6E?style=for-the-badge&logoColor=white)
 
-```java
-public class Zenobya {
-
-    private final String nome        = "Camila Machado";
-    private final String alias       = "Zenobya";
-    private final String localizacao = "São Paulo, BR 🇧🇷";
-    private final String foco        = "Backend Developer (em construção)";
-    private final String combustivel = "Café preto + Rock + Games";
-
-    private final String[] estudando = {
-        "Java", "Spring Boot", "Spring Security",
-        "API Rest", "JUnit5", "HTML/CSS/JS",
-        "Tailwind CSS", "PostgreSQL", "MySQL",
-        "LLMs", "Git & GitHub"
-    };
-
-    private final boolean openToLearn   = true;
-    private final boolean openToCollabs = true;
-}
-```
+Hi! I'm Camila, known as **Zenobya or Zen**. I'm a career changer with years of experience in the **metallurgical and commercial sectors**, who decided to pursue a path that has always fascinated me: software development.*
+ 
+I'm currently focused on **back-end development with Java**, studying Spring Boot, Spring Security, REST APIs and JUnit 5. I also have a foundation in **HTML, CSS and JavaScript**, along with database experience using **SQL, PostgreSQL and MySQL**. I follow development best practices with **Clean Code, Git and GitHub**, and I'm taking my first steps into **QA** and build tools like **Maven and Gradle**. I also keep a close eye on the world of **Artificial Intelligence and Machine Learning**.
+ 
+I believe the discipline, growth mindset, and problem-solving skills I built throughout my professional journey are my greatest assets in this new chapter.
+ 
+Fueled by black coffee, rock music, and games 🎮☕🎸 — and driven by a strong will to build this new version of myself.
+ 
+> *"Under construction, but on solid ground."*
+ 
 ---
 <img src="caffeine-rush-coffee.gif" width="60" alt="coffee"/>
 
