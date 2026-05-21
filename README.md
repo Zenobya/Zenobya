@@ -150,7 +150,7 @@ Quando não estou commitando, estou:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila_Machado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilamachado23/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-camilamachadotech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilamachadotech/)
 [![GitHub](https://img.shields.io/badge/GitHub-camilamachadodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilamachadodev)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:camilamachado1987@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@the.blackrose_/)
