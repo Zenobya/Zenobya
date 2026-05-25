@@ -1,34 +1,34 @@
 <div align="center">
 
+# ☕ Camila Machado Dev
+*Construindo minha jornada dev, um commit de cada vez* 🌙
+
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C49A6C&center=true&vCenter=true&width=500&lines=Hello+World+%E2%98%95;Camila+Machado+%2F%2F+Zenobya;BackEnd+em+constru%C3%A7%C3%A3o)](https://git.io/typing-svg)
-
-
-### ✦ Olá, Seja bem-vind@! ✦
-*Construindo minha jornada dev, um commit de cada vez* 🌙 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C49A6C&center=true&vCenter=true&width=500&lines=Hello+World+%E2%98%95;Camila+Machado+Dev;Back-End+em+constru%C3%A7%C3%A3o)](https://git.io/typing-svg)
+ 
 <img src="the-mandalorian.gif" width="100" alt="coffee"/>   
 
----
 </div>
+
+---
     
 ## 👩‍💻 Sobre mim
- 
-![PT-BR](https://img.shields.io/badge/🇧🇷-Português-009C3B?style=for-the-badge&logoColor=white)
- 
-Olá! Sou a Camila, conhecida como **Zenobya ou Zen**. Sou uma profissional em transição de carreira com anos de experiência nas áreas **metalúrgica e comercial**, que decidiu seguir um caminho que sempre me fascinou: o desenvolvimento de software.
- 
-Atualmente estou focada no **back-end com Java**, estudando Spring Boot, Spring Security, APIs REST e JUnit 5. Também tenho base em **HTML, CSS e JavaScript**, além de trabalhar com bancos de dados como **SQL, PostgreSQL e MySQL**. Sigo boas práticas de desenvolvimento com **Clean Code, Git e GitHub**, e estou dando meus primeiros passos em **QA** e em ferramentas de build como **Maven e Gradle**. Acompanho de perto o universo de **Inteligência Artificial e Machine Learning**.
- 
-Acredito que a disciplina, a mentalidade de crescimento e a resolução de problemas que desenvolvi ao longo da minha trajetória profissional são os maiores ativos que carrego para essa nova fase.
- 
-Movida a café preto, rock e games 🎮☕🎸 — e com muita determinação para construir essa nova versão de mim.
- 
-> *"Em construção, mas com fundação sólida."*
- 
----
-<img src="caffeine-rush-coffee.gif" width="60" alt="coffee"/>
 
+![PT-BR](https://img.shields.io/badge/🇧🇷-Português-009C3B?style=for-the-badge&logoColor=white)
+
+Olá! Sou a Camila Machado ☕.  
+Estou em transição de carreira após anos de experiência nas áreas **metalúrgica e comercial**, seguindo agora um caminho que sempre fez parte da minha vida: a tecnologia. Sempre fui apaixonada por computadores, games e universo nerd e hoje quero transformar essa paixão em uma nova jornada profissional.
+
+Atualmente estou focada no desenvolvimento **back-end com Java**, estudando Spring Boot, Spring Security, APIs REST e JUnit 5. Também possuo base em HTML, CSS e JavaScript, além de conhecimentos em bancos de dados como PostgreSQL e MySQL. Busco evoluir constantemente através de projetos práticos, boas práticas de desenvolvimento, Git/GitHub e estudos sobre IA e Machine Learning.
+
+☕ Movida a café preto, rock e games. Determinada a construir essa nova versão de mim.
+
+> *"Em construção, mas com fundação sólida."*
+<div align="center">
+<img src="caffeine-rush-coffee.gif" width="60" alt="coffee"/>
+</div>
+
+<br><br>
 
 ## 📡 Status atual
 
@@ -40,7 +40,7 @@ Movida a café preto, rock e games 🎮☕🎸 — e com muita determinação pa
 | 🎮 **Modo descanso** | Games relaxantes |
 | ☕ **Combustível** | café preto, sempre |
 
----
+<br><br>
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +67,7 @@ Movida a café preto, rock e games 🎮☕🎸 — e com muita determinação pa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
----
+<br><br>
 
 ## 📊 GitHub Stats
 
@@ -85,53 +85,41 @@ Movida a café preto, rock e games 🎮☕🎸 — e com muita determinação pa
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=camilamachadodev&theme=tokyonight&hide_border=true&background=0D1117&stroke=2A3542&ring=58A6FF&fire=38BDF8&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&dates=9AA5B1)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Conquistas & Certificados  <img src="212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="pacman"/>
-
-
-<div align="center">
-
-</div>
-
-> 📌 Bootcamps e trilhas concluídas na [DIO](https://web.dio.me/home) — incluindo projetos com Java, Git/GitHub e Open Source.
-
-[![DIO Profile 1](https://img.shields.io/badge/DIO-Profile_1_Conquistas_e_Certificados-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsIDEwIDUgMTAtNXYtNUwxMiAxMiAyIDd2NXoiLz48L3N2Zz4=)](https://web.dio.me/users/camilamachado1987)
-[![DIO Profile 2](https://img.shields.io/badge/DIO-Profile_2_Conquistas_e_Certificados-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsIDEwIDUgMTAtNXYtNUwxMiAxMiAyIDd2NXoiLz48L3N2Zz4=)](https://web.dio.me/users/camilabassanelle?tab=achievements)
-
-
 ---
 
 ## 🌟 Projetos em destaque
 
 | projeto | descrição | tech |
 |---|---|---|
-| [☕ Projeto_POO](https://github.com/Zenobya/desafio-poo-dio.git) | Abstraindo um Bootcamp com Orientação a Objetos em Java | Java |
-| [🧩 Projeto Design Patterns](https://github.com/Zenobya/Projeto-Design-Patterns-Spring.git) | API REST de gerenciamento de clientes que consome a API do ViaCEP para preenchimento automático de endereços. | Java / Spring |
-| [🛒 SpeakList Project](https://github.com/Zenobya/SpeakList) | Projeto de API com reconhecimento de fala e Spring Boot | Java / Spring Boot / LLM |
-| [🎮 Sudoku Project](https://github.com/Zenobya/Sudoku_Project_Dio) | Jogo de Sudoku com interface gráfica moderna em Java Swing | Java |
-| [🤖 AI Prompts Bootcamp](https://github.com/Zenobya/AI-Prompts-BootcampDio) | Repositório de prompts para desenvolvimento backend com IA | Java / LLMs |
-| [🌐 NLW Esports Explorer](https://github.com/Zenobya/NLW-Esports-Explorer) | Projeto desenvolvido na Next Level Week da Rocketseat | HTML |
-| [💜 Ada Lovelace](https://github.com/Zenobya/Ada-Lovelace) | Minha primeira página web — feita no curso da Programaria | HTML/CSS |
+| [☕ Projeto_POO](https://github.com/camilamachadodev/desafio-poo-dio.git) | Abstraindo um Bootcamp com Orientação a Objetos em Java | Java |
+| [🧩 Projeto Design Patterns](https://github.com/camilamachadodev/Projeto-Design-Patterns-Spring.git) | API REST de gerenciamento de clientes que consome a API do ViaCEP para preenchimento automático de endereços. | Java / Spring |
+| [🛒 SpeakList Project](https://github.com/camilamachadodev/SpeakList) | Projeto de API com reconhecimento de fala e Spring Boot | Java / Spring Boot / LLM |
+| [🎮 Sudoku Project](https://github.com/camilamachadodev/Sudoku_Project_Dio) | Jogo de Sudoku com interface gráfica moderna em Java Swing | Java |
+| [🤖 AI Prompts Bootcamp](https://github.com/camilamachadodev/AI-Prompts-BootcampDio) | Repositório de prompts para desenvolvimento backend com IA | Java / LLMs |
+| [🌐 NLW Esports Explorer](https://github.com/camilamachadodev/NLW-Esports-Explorer) | Projeto desenvolvido na Next Level Week da Rocketseat | HTML |
+| [💜 Ada Lovelace](https://github.com/camilamachadodev/Ada-Lovelace) | Minha primeira página web — feita no curso da Programaria | HTML/CSS |
 
----
+<br><br>
+
+## 🏆 Conquistas & Certificados  <img src="212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="pacman"/>
+
+> 📌 Bootcamps e trilhas concluídas na [DIO](https://web.dio.me/home) — incluindo projetos com Java, Git/GitHub e Open Source.
+
+[![DIO Profile 1](https://img.shields.io/badge/DIO-Profile_1_Conquistas_e_Certificados-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsIDEwIDUgMTAtNXYtNUwxMiAxMiAyIDd2NXoiLz48L3N2Zz4=)](https://web.dio.me/users/camilamachado1987)
+[![DIO Profile 2](https://img.shields.io/badge/DIO-Profile_2_Conquistas_e_Certificados-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsIDEwIDUgMTAtNXYtNUwxMiAxMiAyIDd2NXoiLz48L3N2Zz4=)](https://web.dio.me/users/camilabassanelle?tab=achievements)
+
+<br><br>
 
 ## ☕ Fora do código
 
 <div align="center">
 
 ```
-Quando não estou commitando, estou:
-    
-🎮  Me aventurando em games                      🌙  Ouvindo rock e assistindo série
-☕  Tomando café (sempre)                        🐛  Debugando a vida
-📚  Lendo ou assistindo sobre tecnologia         🌱  Plantando seeds de conhecimento
+🎮 Games relaxantes  
+🌙 Rock, motos custom e carros antigos  
+☕ Café preto infinito  
+📚 Séries e Astronomia 
+🌱 Aprendizado constante
 ```
 
 </div>
@@ -149,8 +137,6 @@ Quando não estou commitando, estou:
 [![DIO](https://img.shields.io/badge/DIO-perfil-8B5CF6?style=for-the-badge)](https://web.dio.me/users/camilamachado1987)
 
 </div>
-
----
 
 <div align="center">
 
