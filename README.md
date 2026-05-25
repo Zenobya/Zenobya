@@ -1,10 +1,16 @@
 <div align="center">
 
-# ☕ Camila Machado Dev
-*Construindo minha jornada dev, um commit de cada vez* 🌙
+# ☕ Camila Machado 
+<div align="center">
+
+<samp>
+Construindo minha jornada dev, um commit de cada vez ☕
+</samp>
+
+</div>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C49A6C&center=true&vCenter=true&width=500&lines=Hello+World+%E2%98%95;Camila+Machado+Dev;Back-End+em+constru%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+World+👋;Back-End+Developer+💻;In+Progress...+🚧)](https://git.io/typing-svg)
  
 <img src="the-mandalorian.gif" width="100" alt="coffee"/>   
 
@@ -14,16 +20,17 @@
     
 ## 👩‍💻 Sobre mim
 
-![PT-BR](https://img.shields.io/badge/🇧🇷-Português-009C3B?style=for-the-badge&logoColor=white)
-
 Olá! Sou a Camila Machado ☕.  
 Estou em transição de carreira após anos de experiência nas áreas **metalúrgica e comercial**, seguindo agora um caminho que sempre fez parte da minha vida: a tecnologia. Sempre fui apaixonada por computadores, games e universo nerd e hoje quero transformar essa paixão em uma nova jornada profissional.
 
 Atualmente estou focada no desenvolvimento **back-end com Java**, estudando Spring Boot, Spring Security, APIs REST e JUnit 5. Também possuo base em HTML, CSS e JavaScript, além de conhecimentos em bancos de dados como PostgreSQL e MySQL. Busco evoluir constantemente através de projetos práticos, boas práticas de desenvolvimento, Git/GitHub e estudos sobre IA e Machine Learning.
 
-☕ Movida a café preto, rock e games. Determinada a construir essa nova versão de mim.
+<div align="center">
+<samp>
+Movida a café preto, rock e games. Determinada a construir essa nova versão de mim.
+</samp>
+</div>
 
-> *"Em construção, mas com fundação sólida."*
 <div align="center">
 <img src="caffeine-rush-coffee.gif" width="60" alt="coffee"/>
 </div>
@@ -34,11 +41,11 @@ Atualmente estou focada no desenvolvimento **back-end com Java**, estudando Spri
 
 | | |
 |---|---|
-| 🟢 **Estudando** | Java |
-| 🔧 **Construindo** | projetos com Java + Spring Boot |
+| 🟢 **Estudando** | Java 21|
+| 🔧 **Construindo** | Projetos com Java + Spring Boot |
 | 📚 **Explorando** | LLMs e IA aplicada ao dev |
 | 🎮 **Modo descanso** | Games relaxantes |
-| ☕ **Combustível** | café preto, sempre |
+| ☕ **Combustível** | Café preto, sempre |
 
 <br><br>
 
