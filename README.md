@@ -69,19 +69,25 @@ Movida a café preto, rock e games 🎮☕🎸 — e com muita determinação pa
 
 ---
 
-## 📈 Github Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=camilamachadodev&show_icons=true&theme=transparent&hide_border=true&title_color=c49a6c&icon_color=c49a6c&text_color=9aabbf&bg_color=0d1117" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamachadodev&layout=compact&theme=transparent&hide_border=true&title_color=c49a6c&text_color=9aabbf&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=camilamachadodev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=camilamachadodev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=camilamachadodev&theme=dark&hide_border=true&background=0d1117&stroke=1e2d3a&ring=c49a6c&fire=e8b840&currStreakLabel=c49a6c&sideLabels=9aabbf&dates=4a5a6a)](https://git.io/streak-stats)
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camilamachadodev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=camilamachadodev&theme=tokyonight&hide_border=true&background=0D1117&stroke=2A3542&ring=58A6FF&fire=38BDF8&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&dates=9AA5B1)](https://git.io/streak-stats)
 
 </div>
 
